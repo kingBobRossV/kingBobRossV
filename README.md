@@ -33,6 +33,7 @@ I’m now seeking to leverage my experience in networking and foundational secur
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-4B1979?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ### SIEM
