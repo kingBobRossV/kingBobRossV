@@ -10,7 +10,6 @@ Following graduation, I served as a Networking Instructor and IT Support Special
 I’m now seeking to leverage my experience in networking and foundational security knowledge in a Security Operations Center (SOC) environment, where I can contribute meaningfully to threat detection, response, and infrastructure protection.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,7 +21,6 @@ I’m now seeking to leverage my experience in networking and foundational secur
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
