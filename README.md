@@ -48,6 +48,11 @@ I’m now seeking to leverage my experience in networking and foundational secur
     <img src="https://img.shields.io/badge/-Atomic_Red_Team-E32F4B?style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
 
+### SOC Lab Environment
+<div>
+    <img src="https://img.shields.io/badge/-Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
