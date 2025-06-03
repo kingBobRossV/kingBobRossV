@@ -42,6 +42,12 @@ I’m now seeking to leverage my experience in networking and foundational secur
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Offensive Security
+<div>
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Atomic_Red_Team-E32F4B?style=for-the-badge&logo=gnubash&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
