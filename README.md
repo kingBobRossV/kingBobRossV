@@ -1,7 +1,7 @@
 # Hello, I'm Ian Gannon
 <a href="www.linkedin.com/in/iangannon5"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate of Georgia Southern University, where I studied Cybersecurity. With a strong passion for technology and a commitment to solving complex challenges, I have focused my efforts on building a career in network security and IT operations.
+I am a graduate of Georgia Southern University, where I studied Cybersecurity. With a strong passion for technology and a commitment to solving complex challenges, I have focused my efforts on building a career in network security and IT operations.
 
 Following graduation, I served as a Networking Instructor and IT Support Specialist at the Bamberg Job Corps Center in South Carolina. In this role, I provided hands-on technical support and guided students through core IT concepts, including CompTIA A+, Network+, Security+, and introductory Python programming. My work involved tutoring and mentoring students across a wide range of foundational and intermediate technology topics.
 
