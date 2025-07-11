@@ -30,6 +30,13 @@ I’m now seeking to leverage my experience in networking and foundational secur
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
+### DevSecOps
+<div>
+    <img src="https://img.shields.io/badge/-OWASP%20ZAP-000000?&style=for-the-badge&logo=OWASP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+    
+</div>
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -53,6 +60,7 @@ I’m now seeking to leverage my experience in networking and foundational secur
 ### SOC Lab Environment
 <div>
     <img src="https://img.shields.io/badge/-Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux%20Terminal-000000?&style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
 
 ## Certifications
