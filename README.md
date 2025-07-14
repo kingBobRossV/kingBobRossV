@@ -13,7 +13,7 @@ I’m now seeking to leverage my experience in networking and foundational secur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| OWASP Implementation and DAST Analysis          | <a href="https://github.com/kingBobRossV/DAST-Project)">DAST Project</a>|
+| OWASP Implementation and DAST Analysis          | <a href="https://github.com/kingBobRossV/DAST-Project/tree/main)">DAST Project</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/kingBobRossV/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/kingBobRossV/Detection-Lab/tree/main">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/kingBobRossV/SOC-Automation-Project/tree/main">SOC Automation Lab</a>|
@@ -70,6 +70,6 @@ I’m now seeking to leverage my experience in networking and foundational secur
 </div>
 
 ## Projects
-- <a href="https://github.com/kingBobRossV/DAST-Project)">DAST Project</a>
+- <a href="https://github.com/kingBobRossV/DAST-Project/tree/main)">DAST Project</a>
 - <a href="https://github.com/kingBobRossV/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/kingBobRossV/SOC-Automation-Project/tree/main">SOC Automation Lab</a>
